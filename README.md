@@ -1,6 +1,6 @@
 Hello I'm Allan!
 
-You will find some of my projects I've been working on in their repositories.  
+You will find some of the projects I've been working on located in their repositories.  
 
 While you're here check out some of my stuff.  My personal website https://allanbott.com is fun to peruse.
 
