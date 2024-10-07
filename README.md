@@ -6,7 +6,7 @@ While you're here check out some of my endeavours.  My personal website https://
 
 New York Times Best Sellers List is simple but cool as well https://mercury80hg.github.io/NYT-Best-Sellers-List/
 
-Ball Save is a pinball score tracker for pinball playing fans, deployed at https://ballsave.fun
+Ball Save is a pinball score tracker for pinball playing fans, deployed at https://ballsave.allanbott.com
 
 Currently I'm looking for a position as a Frontend Developer, but I'd also love to work on some collaboration projects, or even just establish more relationships in the Javascript, React software developer community.
 
